@@ -5,7 +5,7 @@ import { TbMessageChatbot } from "react-icons/tb";
 const chatbot = () => {
   return (
     <div className='chatbot'>
-      <TbMessageChatbot />
+      <TbMessageChatbot color='#fff' size={40} />
     </div>
   )
 }
